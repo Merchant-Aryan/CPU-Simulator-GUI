@@ -4,6 +4,10 @@ A Windows Forms application that visually simulates various CPU scheduling algor
 
 ---
 
+The code in here is forked and modified from Francis Nweke's GitHub.
+
+---
+
 ## Features
 
 - User-friendly graphical interface
